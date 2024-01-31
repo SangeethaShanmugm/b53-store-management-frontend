@@ -1,0 +1,1 @@
+export const API = "https://b53-store-management.onrender.com"
