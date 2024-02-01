@@ -14,7 +14,6 @@ const itemSlice = createSlice({
             let newData = state.cartItems.push(action.payload)
             console.log("newData", newData)
             console.log(action)
-
         }
     }
 })
